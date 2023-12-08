@@ -15,7 +15,7 @@
 
 **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:cyddhao联系作者。**  
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
+![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 #### 演示地址
 ```
@@ -224,7 +224,7 @@
 ![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-fengfeiyezi.png)
 **这是作者的微信二维码，如需本项目源代码，可扫码或者VX:cyddhao联系作者。**  
 
-![微信二维码](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png)
+![微信二维码-1](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/fengfeiyezi-QR-code.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 #### 安装教程
 
